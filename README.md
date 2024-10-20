@@ -1,7 +1,5 @@
 # weather
-<<<<<<< HEAD
 a weather app in flutter
-=======
 
 A new Flutter project.
 package:
@@ -12,4 +10,4 @@ package:
     intl: ^0.18.1
     flutter_bloc: ^8.1.3
     equatable: ^2.0.5
->>>>>>> master
+
