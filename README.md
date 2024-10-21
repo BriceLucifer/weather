@@ -14,7 +14,7 @@ A new Flutter project.
 assets 
     - is for assets
 lib 
-    ```markdown
+    ```
     ├─bloc
     ├─data
     └─screens
