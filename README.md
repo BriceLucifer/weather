@@ -13,12 +13,14 @@ A new Flutter project.
 ## structure
 assets 
     - is for assets
+    
 lib 
-    ```
+```
     ├─bloc
     ├─data
     └─screens
-    ```
+```
+
 main.dart 
     - main is for laucher
 
