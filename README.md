@@ -11,19 +11,18 @@ A new Flutter project.
     - flutter_bloc: ^8.1.3
     - equatable: ^2.0.5
 ## structure
-assets 
-    - is for assets
-    
-lib 
 ```
+assets:
+    |- is for assets
+    
+lib:
     ├─bloc
     ├─data
     └─screens
-```
 
 main.dart 
     - main is for laucher
-
+```
 ## overview
 1. an animated app with no ads on
 2. support all platform
